@@ -35,7 +35,7 @@ global.author = "HKIMA_42"
 
 //BUTTON INPUT 
 global.buttonyt = "SUBSCRIBE"
-global.buttonyturl = "https://youtube.com/@HBMods_Channel"
+global.buttonyturl = "https://youtube.com/@h.kima44?si=Nh3nTgYx0hvNb2Vb "
 global.buttonig = "Follow Us:)"
 global.buttonigurl = "https://www.instagram.com/herbert_suantak2"
 //_______________________________________________
